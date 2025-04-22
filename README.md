@@ -6,7 +6,7 @@
 - 📫 How to reach me: amrenderk66@gmail.com
 - 😄 My website: https://github.com/Amrenderkumar
 - ⚡ Fun fact: I'm comming to teen
-- 📄 view my resume:  Resume
+- 📄 view my resume: amrenderk66@gmail.com
   
 ### Connect with me:
 <div id="badges">
