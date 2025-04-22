@@ -1,8 +1,9 @@
  <h1 align="center">Hi 👋, I'm Amrender kumar</h1>
+ <h2>A passionate Wev Dev from India</h2>
 
 - 🔭 I’m currently working on web Devlepment
 - 🌱 I’m currently learning Reactjs and DSA
-- 💬 Ask me anything wev Dev and like Full Stack Dev 
+- 💬 Ask me anything Wev Dev and like Full Stack Dev 
 - 📫 How to reach me: amrenderk66@gmail.com
 - 😄 My website: https://github.com/Amrenderkumar
 - ⚡ Fun fact: I'm comming to teen
