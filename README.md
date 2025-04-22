@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Amrender kumar</h1>
- <h2 align="center">A passionate Wev Dev from India</h2>
+ <h3 align="center" class="heading-element" dir="auto">A passionate Wev Dev from India</h3>
 
 - 🔭 I’m currently working on web Devlepment
 - 🌱 I’m currently learning Reactjs and DSA
