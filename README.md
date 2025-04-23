@@ -30,7 +30,7 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,react,mongodb,cpp,figma,bootstrap&perline=5)](https://skillicons.dev)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amrenderkumar&show_icons=true&theme=en" alt="Amrenderkumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amrenderkumar&show_icons=true&theme=en" alt="creator-turbo" /></p>
 
 ![Amrender kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrenderkumar&show_icons=true&theme=dark)
 
