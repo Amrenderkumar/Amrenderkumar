@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,react,mongodb,cpp,figma,bootstrap&perline=5)](https://skillicons.dev)
