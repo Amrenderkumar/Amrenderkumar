@@ -31,14 +31,15 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,react,mongodb,cpp,figma,bootstrap&perline=5)](https://skillicons.dev)
 <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrenderKumar&show_icons=true&locale=en&layout=compact" alt="AmrenderKumar" />
+</p>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrenderKumar&show_icons=true&locale=en" alt="AmrenderKumar" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrenderKumar&show_icons=true&locale=en&layout=compact" alt="AmrenderKumar" />
-</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrenderkumar&theme=dark)
+
+
 
 
 
