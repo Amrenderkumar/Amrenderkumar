@@ -34,6 +34,8 @@
 ![Amrender kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrenderkumar&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrenderkumar&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creator-turbo&show_icons=true&locale=en" alt="creator-turbo" /></p>
+
 
 
 <br>
