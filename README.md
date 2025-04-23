@@ -29,7 +29,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=Html,Css,Javascript,github,git,Reactjs,MongoDb,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Amrender kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Amrenderkumar&show_icons=true&theme=dark)
 
