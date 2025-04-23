@@ -34,6 +34,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrenderKumar&show_icons=true&locale=en" alt="AmrenderKumar" />
 </p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrenderKumar&show_icons=true&locale=en&layout=compact" alt="AmrenderKumar" />
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrenderkumar&theme=dark)
 
 
