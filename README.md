@@ -13,7 +13,7 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/Amrenderkumar">
+  <a href="https://github.com/Amrenderkumar" style="boder-radius: 3px">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.youtube.com/@akroyals_tm3599">
