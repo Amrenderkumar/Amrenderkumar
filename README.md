@@ -40,7 +40,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrenderKumar&show_icons=true&locale=en&cache_seconds=0" alt="AmrenderKumar" />
 </p>
 
-
 <br>
 ⭐️ From [Amrenderkumar](https://github.com/Amrenderkumar)
 
