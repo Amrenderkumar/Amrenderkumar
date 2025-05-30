@@ -17,7 +17,7 @@
   <a href="https://github.com/Amrenderkumar">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/@akroyals_tm3599">
+  <a href="https://www.youtube.com/@akroyals_tm3599"> 
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://www.instagram.com/killerboy_110/">
