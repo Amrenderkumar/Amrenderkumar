@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Reactjs and DSA   
 - 💬 Ask me anything Wev Dev and like Full Stack Dev  
 - 📫 How to reach me: amrenderk66@gmail.com 
-- 😄 My website: https://github.com/Amrenderkumar
+- 😄 My website: https://github.com/Amrenderkumar 
 - ⚡ Fun fact: I'm comming to teen
 - 📄 view my resume: pending. 
 -    portfoliyo: pending.
