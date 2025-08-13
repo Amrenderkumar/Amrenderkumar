@@ -70,3 +70,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amrenderkumar&theme=react-dark&area=true" alt="GitHub Activity Graph" width="100%" />
   </a>
 </div>
+
+---
+
+### 🔝 Top Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Amrenderkumar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+
+---
