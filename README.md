@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *amrenderk66@gmail.com*
 
-- 📄 View My <a href="">Resume</a>
+- 📄 View My <a href="https://pdflink.to/37aed55d/">Resume</a>
 
 - 🌐 View My <a href="https://amrenderkumar.github.io/Portfolio/">Portfolio</a>
 
