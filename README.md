@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amrenderkumar" alt="Amrenderkumar" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://x.com/home?lang=en-in" alt="" /></a> </p><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<a href="https://linkedin.com/in/werewrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="werewrew" height="30" width="40" /></a>
+<a href="https://fb.com/erwer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erwer" height="30" width="40" /></a>
+<a href="https://instagram.com/werwee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="werwee" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/werwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="werwe" height="30" width="40" /></a>
 
 
 - 🌱 I’m currently learning *Full Stack Development + DSA in C++*
