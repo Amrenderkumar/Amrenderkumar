@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amrenderkumar" alt="Amrenderkumar" /></a> </p>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amrenderkumar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=Amrenderkumar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://x.com/home?lang=en-in" alt="" /></a> </p><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
