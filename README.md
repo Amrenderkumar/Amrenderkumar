@@ -25,8 +25,8 @@
 <a href="https://www.linkedin.com/in/amrender-kumar-a1740b2a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amrender kumar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/amrenderkumar.amrender.923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Amrender kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/killerboy_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="killerboy_110" height="30" width="40" /></a>
-<a href="https://fb.com/erwer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erwer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ak royal's_tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ak royal's_tm" height="30" width="40" /></a>
+<a href="https://twitter.com/home?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erter" height="30" width="40" /></a>
 
 
 
