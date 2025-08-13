@@ -39,47 +39,4 @@
 
 
 
-
-
-
-## Hi there! 👋
-
-I'm Amrender Kumar, a passionate Full Stack Developer dedicated to crafting dynamic and interactive web applications. Always eager to learn and explore new technologies!
-
-## About Me
-
-Based in Hisar, Haryana, I specialize in full-stack development. With a strong commitment to my projects, I strive for excellence in every line of code I write. My journey in programming has been fueled by curiosity and a drive to solve complex problems.
-
-## Skills & Technologies
-
-html,css,react,nodejs,express,django,flask,mongodb,git,github,docker,aws
-
-## Top Projects
-
-- [Portfolio](https://github.com/Amrenderkumar/Portfolio) - A personal portfolio showcasing my work and skills. ⭐ 0 
-- [JobBoard](https://github.com/Amrenderkumar/JobBoard) - A job board application that connects job seekers with opportunities. ⭐ 0 
-- [E-commerceWebsite](https://github.com/Amrenderkumar/E-commerceWebsite-) - A fully functional e-commerce website built with modern technologies. ⭐ 0 
-- [Calculater](https://github.com/Amrenderkumar/Calculater) - A simple web-based calculator application. ⭐ 0 
-- [Caf-Delight](https://github.com/Amrenderkumar/Caf-Delight) - A web application for managing a café's operations. ⭐ 0
-
-## GitHub Stats
-
-🔭 Public Repositories: 17 
-👥 Followers: 0 
-👤 Following: 2 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrenderkumar&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Created [Book_library](https://github.com/Amrenderkumar/Book_library) on August 4, 2025.
-- Pushed updates to [JobBoard](https://github.com/Amrenderkumar/JobBoard) on July 24, 2025.
-- Contributed to [E-commerceWebsite](https://github.com/Amrenderkumar/E-commerceWebsite-) on July 24, 2025.
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts published. Stay tuned for updates!
-
-## Connect with Me
-
-{}
