@@ -37,6 +37,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrenderkumar&" alt="Amrenderkumar" /></p>
 
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrenderkumar&show_icons=true&theme=radical)
