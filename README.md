@@ -41,4 +41,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrenderkumar&" alt="Amrenderkumar" /></p>
 
-
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CARLOX62&theme=react-dark&area=true" alt="GitHub Activity Graph" width="100%" />
+  </a>
+</div>
