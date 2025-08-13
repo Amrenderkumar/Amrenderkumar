@@ -17,7 +17,7 @@
 
 - 📄 View My <a href="">Resume</a>
 
-- 🌐 View My <a href="https://creator-turbo.github.io/Creator-Turbo-Portfolio-website/">Portfolio</a>
+- 🌐 View My <a href="https://amrenderkumar.github.io/Portfolio/">Portfolio</a>
 
 
 
