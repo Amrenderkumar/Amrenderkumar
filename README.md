@@ -18,6 +18,30 @@
 
 - 🌐 View My <a href="https://amrenderkumar.github.io/Portfolio/">Portfolio</a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CARLOX62&label=Profile%20views&color=0e75b6&style=flat" alt="CARLOX62" /> </p>
+
+🌟 Currently Exploring: **Exciting ML Projects & Real-World Data Challenges**
+
+🧠 Learning Focus: **Advanced Deep Learning | Neural Networks | Transformers**
+
+💬 Let's Talk About:  
+**Machine Learning**, **Python Development**, **AI Projects**, or **Collaboration Ideas**
+
+📫 Reach Out: [📧 aniketsonukumar62@gmail.com](mailto:aniketsonukumar62@gmail.com)
+
+🐍 Fun Fact: *Python isn’t just a language — it’s my way of life!* 💚
+
+
+---
+
+<div align="center">
+
+   
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+ ---
 
 
 <h3 align="left">Connect with me:</h3>
