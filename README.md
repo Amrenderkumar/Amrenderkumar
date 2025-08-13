@@ -43,6 +43,6 @@
 
 <div align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CARLOX62&theme=react-dark&area=true" alt="GitHub Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amrenderkumar&theme=react-dark&area=true" alt="GitHub Activity Graph" width="100%" />
   </a>
 </div>
