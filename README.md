@@ -18,18 +18,17 @@
 
 - 🌐 View My <a href="https://amrenderkumar.github.io/Portfolio/">Portfolio</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CARLOX62&label=Profile%20views&color=0e75b6&style=flat" alt="CARLOX62" /> </p>
+<img align="right" alt="Coding" width="350" src="https://github.com/CARLOX62/CARLOX62/blob/main/Firefly_Create%20a%20short%20animated%20loop%20GIF%20(3%E2%80%936%20seconds)%20of%20a%20hacker%20cartoon%20character%20sitting%20%20316441.jpg" />
 
-🌟 Currently Exploring: **Exciting ML Projects & Real-World Data Challenges**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amrenderkumar&label=Profile%20views&color=0e75b6&style=flat" alt="CARLOX62" /> </p>
 
-🧠 Learning Focus: **Advanced Deep Learning | Neural Networks | Transformers**
+🌟 Currently Exploring: **Exciting Node.js and MongoDb & Real-World Project**
 
-💬 Let's Talk About:  
-**Machine Learning**, **Python Development**, **AI Projects**, or **Collaboration Ideas**
+🧠 Learning Focus: **MERN Stack Development | Project | DSA**
 
-📫 Reach Out: [📧 aniketsonukumar62@gmail.com](mailto:aniketsonukumar62@gmail.com)
+📫 Reach Out: [📧 amrenderk666@gmail.com](mailto:amrenderk66@gmail.com)
 
-🐍 Fun Fact: *Python isn’t just a language — it’s my way of life!* 💚
+🐍 Fun Fact: *Web dev isn’t just a language — it’s my way of life!* 💚
 
 
 ---
