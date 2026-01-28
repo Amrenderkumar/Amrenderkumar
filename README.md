@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/CARLOX62/CARLOX62/blob/main/687474~1.GIF?raw=true)
 <h1 align="center">Hi 👋, I'm Amrender Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India | MERN Stack Developer | Quick Lerner</h3>
  
  
 
