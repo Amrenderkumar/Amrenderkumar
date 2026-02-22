@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amrender Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India | MERN Stack Developer | Quick Lerner</h3>
   
- 
+  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amrenderkumar" alt="Amrenderkumar" /></a> </p>
  
