@@ -82,6 +82,17 @@
 </p>
 <br>
 
+# 🏆 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Aniket6203/">
+<img src="https://leetcard.jacoblin.cool/Aniket6203?theme=dark&font=Poppins&ext=contest"/>
+</a>
+
+</p>
+
+---
 
 
 ---
