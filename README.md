@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Amrenderkuma/blob/main/687474~1.GIF?raw=true)
+![Banner](https://github.com/Amrenderkumar/Amrenderkumar/blob/main/banner.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Amrender Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India | MERN Stack Developer | Quick Lerner</h3>
   
