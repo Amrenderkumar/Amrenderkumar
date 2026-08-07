@@ -86,8 +86,8 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/u/Aniket6203/">
-<img src="https://leetcard.jacoblin.cool/Aniket6203?theme=dark&font=Poppins&ext=contest"/>
+<a href="https://leetcode.com/u/Amrender98/">
+<img src="https://leetcard.jacoblin.cool/Amrender98?theme=dark&font=Poppins&ext=contest"/>
 </a>
 
 </p>
