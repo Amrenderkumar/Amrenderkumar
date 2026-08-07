@@ -82,6 +82,7 @@
 </p>
 <br>
 
+---
 # 🏆 Coding Profiles
 
 <p align="center">
@@ -91,9 +92,6 @@
 </a>
 
 </p>
-
----
-
 
 ---
 
