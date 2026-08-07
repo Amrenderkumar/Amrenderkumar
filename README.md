@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Banner" width="100%" /> </p>
+![MasterHead](https://github.com/CARLOX62/CARLOX62/blob/main/687474~1.GIF?raw=true)
 <h1 align="center">Hi 👋, I'm Amrender Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India | MERN Stack Developer | Quick Lerner</h3>
   
