@@ -30,7 +30,6 @@
 
 🐍 Fun Fact: *Web dev isn’t just a language — it’s my way of life!* 💚
 
-
 ---
 
 <div align="center">
