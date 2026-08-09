@@ -146,12 +146,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrenderkumar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amrenderkumar&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</div>
-
-<br/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Amrenderkumar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Streak" height="180px"/>
