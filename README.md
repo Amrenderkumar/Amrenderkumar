@@ -104,7 +104,7 @@
 <!-- Profile Details -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CARLOX62&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amrenderkumar&theme=tokyonight"
     alt="GitHub Profile Details"
     width="95%"
   />
