@@ -101,6 +101,49 @@
   </a>
 </div>
 
+<!-- Profile Details -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CARLOX62&theme=tokyonight"
+    alt="GitHub Profile Details"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<!-- Languages -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CARLOX62&theme=tokyonight"
+    alt="Repositories Per Language"
+    width="46%"
+  />
+  &nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CARLOX62&theme=tokyonight"
+    alt="Most Commit Language"
+    width="46%"
+  />
+</p>
+
+<br>
+
+<!-- Stats -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CARLOX62&theme=tokyonight"
+    alt="GitHub Stats"
+    width="46%"
+  />
+  &nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CARLOX62&theme=tokyonight&utcOffset=5.5"
+    alt="Productive Time"
+    width="46%"
+  />
+</p>
+
 <br/>
 
 <div align="center">
