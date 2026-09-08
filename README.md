@@ -1,73 +1,167 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+![MasterHead](https://github.com/CARLOX62/CARLOX62/blob/main/687474~1.GIF?raw=true)
+<h1 align="center">Hi 👋, I'm Amrender Kumar</h1>
+<h3 align="center">A passionate Full Stack Developer from India | MERN Stack Developer | Quick Lerner and self motivated person.</h3>
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amrenderkumar" alt="Amrenderkumar" /></a> </p>   
+ 
+  
+- 🌱 I’m currently learning *Full Stack Development + DSA in Java*
 
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Amrenderkumar?tab=repositories">My GitHub Repositories</a>
 
+- 💬 Ask me about *Web developer of everything*  
+ 
+- 📫 How to reach me *amrenderk66@gmail.com*
 
-<!-- ===== GITHUB STATS ===== -->
+- 📄 View My <a href="https://yellow-lion-263.joyy.site">Resume</a>
+
+- 🌐 View My <a href="https://amrenderkumar.github.io/Portfolio/">Portfolio</a>
+
+<img align="right" alt="Coding" width="350" src="https://github.com/CARLOX62/CARLOX62/blob/main/Firefly_Create%20a%20short%20animated%20loop%20GIF%20(3%E2%80%936%20seconds)%20of%20a%20hacker%20cartoon%20character%20sitting%20%20316441.jpg" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amrenderkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Amrender kuamr" /> </p>
+
+🌟 Currently Exploring: **Exciting Node.js and MongoDb & Real-World Project**
+
+🧠 Learning Focus: **MERN Stack Development | Project | DSA**
+
+📫 Reach Out: [📧 amrenderk666@gmail.com](mailto:amrenderk66@gmail.com)
+
+🐍 Fun Fact: *Web dev isn’t just a language — it’s my way of life!* 💚
+
+---
 
 <div align="center">
 
-<!-- Streak — full width -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Amrenderkumar&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Amrenderkumar&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Arif's streak" />
-</picture>
-
-<br/>
-
-<!-- Stats + Top languages — side by side -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Amrenderkumar&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Amrenderkumar&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Arif's GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Amrenderkumar&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Amrenderkumar&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
-</picture>
-
+   
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
+ ---
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/amrender-kumar-a1740b2a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amrender kumar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/amrenderkumar.amrender.923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Amrender kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/killerboy_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="killerboy_110" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@akroyals_tm3599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ak royal's_tm" height="30" width="40" /></a>
+<a href="https://twitter.com/amrenderk66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erter" height="30" width="40" /></a>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a> <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/greensock" alt="gsap" width="50" height="50"/>
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+</a>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="50" height="50"/>
+</a>
+<a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/cloudinary" alt="cloudinary" width="50" height="50"/>
+</a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="50" height="50"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" height="50"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+</a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       alt="github" width="50" height="50"/>
+</a>
+</p>
+<br>
+
+---
+# 🏆 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Amrender98/">
+<img src="https://leetcard.jacoblin.cool/Amrender98?theme=dark&font=Poppins&ext=contest"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">📈 Amrender's GitHub Activity</h3>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
-</picture>
-
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amrenderkumar&theme=react-dark&area=true" alt="GitHub Activity Graph" width="100%" />
+  </a>
 </div>
 
-<!-- ===== END SNAKE ===== -->
+<!-- Profile Details -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amrenderkumar&theme=tokyonight"
+    alt="GitHub Profile Details"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<!-- Languages -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amrenderkumar&theme=tokyonight"
+    alt="Repositories Per Language"
+    width="46%"
+  />
+  &nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amrenderkumar&theme=tokyonight"
+    alt="Most Commit Language"
+    width="46%"
+  />
+</p>
+
+<br>
+
+<!-- Stats -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amrenderkumar&theme=tokyonight"
+    alt="GitHub Stats"
+    width="46%"
+  />
+  &nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amrenderkumar&theme=tokyonight&utcOffset=5.5"
+    alt="Productive Time"
+    width="46%"
+  />
+</p>
+
 <br/>
-<br/>
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/projects/projects.svg" alt="Projects" />
-</div>
 
-<!-- ===== SOCIAL BADGES ===== -->
-<br/>
-<div align="center">
 
-<a href="https://www.linkedin.com/in/amrender-kumar-a1740b2a7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/killerboy_110/">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/arifhaxnn">
-  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:amrenderk66@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
-&nbsp;&nbsp;
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Amrenderkumar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Keep%20Learning!-ff00ff?style=for-the-badge&logo=academia&logoColor=white" alt="Keep Learning Badge"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="30" />
+</p>
 
-<!-- ===== END SOCIAL BADGES ===== -->
+---
 
-<!-- =================================== -->
+### 🔝 Top Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Amrenderkumar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+ 
+
+---
+ 
+
